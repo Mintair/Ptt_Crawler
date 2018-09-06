@@ -2,7 +2,6 @@ import requests
 import re
 import urllib.parse
 from requests_html import HTML
-from multiprocessing import Pool
 
 def fetch(url):
     response = requests.get(url, cookies={'over18': '1'})  # 一直向 server 回答滿 18 歲了 !
