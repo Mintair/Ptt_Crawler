@@ -1,4 +1,4 @@
-# Ptt_Crawler
+# Ptt_Crawler/Ptt爬蟲試作
 ## ptt爬蟲的練習 主要參考 <https://github.com/leVirve/CrawlerTutorial>
 
 ### 目前能夠 
