@@ -3,7 +3,7 @@
 
 ### 目前能夠 
 
-### 1)選擇板
+### 1)選擇看板
 ```python
 board = input('\n看哪個板 :').lower()
 url = 'https://www.ptt.cc/bbs/' + board + '/index.html'
